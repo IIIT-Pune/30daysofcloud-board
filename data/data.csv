@@ -1,11 +1,11 @@
 Student Name,Institution,Enrolment Status,# of Skill Badges Completed in Track 1,# of Skill Badges Completed in Track 2
 Sannidhya Kailas Walzade,Indian Institute of Information Technology - Pune,All Good,0,0
 Suyash Bansod,Indian Institute of Information Technology - Pune,All Good,2,1
-Nishant Chaudhary,Indian Institute of Information Technology - Pune,All Good,6,1
+Nishant Chaudhary,Indian Institute of Information Technology - Pune,All Good,6,2
 Daksh Nahar,Indian Institute of Information Technology - Pune,All Good,1,1
 Manoj Hublal Yadav,Indian Institute of Information Technology - Pune,All Good,0,0
 Aditya Sadana,Indian Institute of Information Technology - Pune,All Good,0,0
-Etcherla Sai Manoj,Indian Institute of Information Technology - Pune,All Good,6,1
+Etcherla Sai Manoj,Indian Institute of Information Technology - Pune,All Good,6,4
 Jaywant Kadam,Indian Institute of Information Technology - Pune,All Good,6,6
 Manas Agarwal,Indian Institute of Information Technology - Pune,All Good,1,1
 Harsh Gupta,Indian Institute of Information Technology - Pune,All Good,2,1
@@ -40,9 +40,9 @@ Om Sudam Hange,Indian Institute of Information Technology - Pune,All Good,0,0
 Ayush Singh,Indian Institute of Information Technology - Pune,All Good,0,0
 Smit Zala,Indian Institute of Information Technology - Pune,All Good,0,0
 Siddharth Hiraou,Indian Institute of Information Technology - Pune,All Good,6,6
-Bhuvan Bokka,Indian Institute of Information Technology - Pune,All Good,3,1
+Bhuvan Bokka,Indian Institute of Information Technology - Pune,All Good,4,2
 Akhilesh Kumar Singh,Indian Institute of Information Technology - Pune,All Good,0,0
-Suyog Bharat Ambadare,Indian Institute of Information Technology - Pune,All Good,3,1
+Suyog Bharat Ambadare,Indian Institute of Information Technology - Pune,All Good,4,1
 Ashish Biswal,Indian Institute of Information Technology - Pune,All Good,6,6
 Shreyashi Karmakar,Indian Institute of Information Technology - Pune,All Good,6,6
 Hrishikesh Makarand Kulkarni,Indian Institute of Information Technology - Pune,All Good,1,1
@@ -69,7 +69,7 @@ Rahul Yadav,Indian Institute of Information Technology - Pune,All Good,0,0
 Shubham Mehra,Indian Institute of Information Technology - Pune,All Good,0,0
 Nitesh Mishra,Indian Institute of Information Technology - Pune,All Good,0,0
 Vinat Goyal,Indian Institute of Information Technology - Pune,All Good,0,0
-Prakhar Bhatnagar,Indian Institute of Information Technology - Pune,All Good,4,1
+Prakhar Bhatnagar,Indian Institute of Information Technology - Pune,All Good,6,1
 Vaibhav Tewari,Indian Institute of Information Technology - Pune,All Good,0,0
 Abhishek Kumar,Indian Institute of Information Technology - Pune,All Good,0,0
 Alok Prakash,Indian Institute of Information Technology - Pune,All Good,6,6
@@ -96,7 +96,7 @@ Purva Ranjit Jadhav,Indian Institute of Information Technology - Pune,All Good,0
 Amol Jain,Indian Institute of Information Technology - Pune,All Good,0,0
 Siddhant,Indian Institute of Information Technology - Pune,All Good,2,1
 Shoaib Thakur,Indian Institute of Information Technology - Pune,All Good,0,0
-Akanksha,Indian Institute of Information Technology - Pune,All Good,6,1
+Akanksha,Indian Institute of Information Technology - Pune,All Good,6,2
 Pranav Chandewar,Indian Institute of Information Technology - Pune,All Good,0,0
 Reyaan Jagnani,Indian Institute of Information Technology - Pune,All Good,0,0
 omtilak thakurr,Indian Institute of Information Technology - Pune,All Good,6,6
@@ -111,8 +111,8 @@ Nikhil Grewal,Indian Institute of Information Technology - Pune,All Good,1,0
 Sarvesh Kesharwani,Indian Institute of Information Technology - Pune,All Good,6,6
 Nikhil Grewal,Indian Institute of Information Technology - Pune,All Good,0,0
 Sahil Tiwari,Indian Institute of Information Technology - Pune,All Good,1,1
-PANKAJ KUMAR GUPTA,Indian Institute of Information Technology - Pune,All Good,0,0
-BILLA SAKETH RAM,Indian Institute of Information Technology - Pune,All Good,1,3
+PANKAJ KUMAR GUPTA,Indian Institute of Information Technology - Pune,All Good,1,1
+BILLA SAKETH RAM,Indian Institute of Information Technology - Pune,All Good,1,5
 Shubham Mittal,Indian Institute of Information Technology - Pune,All Good,3,1
 Mayur Ramesh Bodhare,Indian Institute of Information Technology - Pune,All Good,0,0
 Mallidi Tarun Reddy,Indian Institute of Information Technology - Pune,All Good,0,0
@@ -122,8 +122,8 @@ Yatharth Kale,Indian Institute of Information Technology - Pune,All Good,0,0
 Shubham jha,Indian Institute of Information Technology - Pune,All Good,2,1
 Soham Arun Tembhurne,Indian Institute of Information Technology - Pune,All Good,6,1
 Ajay Walke,Indian Institute of Information Technology - Pune,All Good,6,6
-Sandeep Gurijala,Indian Institute of Information Technology - Pune,All Good,5,1
-Vaishali Vyankatesh Gentyal,Indian Institute of Information Technology - Pune,All Good,6,3
+Sandeep Gurijala,Indian Institute of Information Technology - Pune,All Good,6,2
+Vaishali Vyankatesh Gentyal,Indian Institute of Information Technology - Pune,All Good,6,5
 vivek ranga,Indian Institute of Information Technology - Pune,All Good,0,0
 Shivam Gupta,Indian Institute of Information Technology - Pune,All Good,1,1
 Asalam Tadavi,Indian Institute of Information Technology - Pune,All Good,5,6
@@ -159,7 +159,7 @@ Vaibhav Surendra Ghage,Indian Institute of Information Technology - Pune,All Goo
 Janardhan Edara,Indian Institute of Information Technology - Pune,All Good,4,1
 Vikas Sharma,Indian Institute of Information Technology - Pune,All Good,0,0
 Shraddha Gopal Dhone,Indian Institute of Information Technology - Pune,All Good,0,0
-Shreyash Nigam,Indian Institute of Information Technology - Pune,All Good,6,3
+Shreyash Nigam,Indian Institute of Information Technology - Pune,All Good,6,6
 Janardhan Edara,Indian Institute of Information Technology - Pune,All Good,4,1
 Devesh Bhardwaj,Indian Institute of Information Technology - Pune,All Good,0,0
 Kartik Gupta,Indian Institute of Information Technology - Pune,All Good,0,0
@@ -176,6 +176,6 @@ Pranav More,Indian Institute of Information Technology - Pune,All Good,4,1
 yaswanth palika,Indian Institute of Information Technology - Pune,All Good,1,1
 Shreyansh Gupta,Indian Institute of Information Technology - Pune,All Good,0,0
 Devang S. Bhandari,Indian Institute of Information Technology - Pune,All Good,0,0
-Nipam Mistry,Indian Institute of Information Technology - Pune,All Good,6,1
+Nipam Mistry,Indian Institute of Information Technology - Pune,All Good,6,3
 Sukrit khare,Indian Institute of Information Technology - Pune,All Good,0,0
 Manoj Reddy,Indian Institute of Information Technology - Pune,All Good,0,0
